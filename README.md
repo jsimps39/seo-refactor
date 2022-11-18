@@ -16,5 +16,4 @@ Link
 
 #### Visuals
 The following is a visual image of what the webpage looks like now
-[Website image](_Users_jamessimpson_bootcamp_challenges_seo-refactor_index.html (1).png)
-
+[Website image] (/Users/jamessimpson/bootcamp/challenges/seo-refactor/_Users_jamessimpson_bootcamp_challenges_seo-refactor_index.html (1).png)
